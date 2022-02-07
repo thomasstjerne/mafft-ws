@@ -106,3 +106,5 @@ dist
 # Input and output directories (fasta and newick)
 input
 output
+
+.DS_Store
