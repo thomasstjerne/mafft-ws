@@ -102,3 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Input and output directories (fasta and newick)
+input
+output
